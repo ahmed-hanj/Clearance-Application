@@ -1,5 +1,15 @@
-/BinAPI
-/get-pip.py
-/helloworld
-/READ ME!.xml
-/TA_Lib-0.4.20-cp39-cp39-win_amd64.whl
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
